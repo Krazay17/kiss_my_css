@@ -1,3 +1,3 @@
 ULTIMATE
 hello josh this is abramo
-can you reed me?
+can you read me?
