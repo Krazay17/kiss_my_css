@@ -11,6 +11,7 @@ export class CWorld {
     }
 
     tick(dt:number, time:number){
-        this.testCube.rotateY(.001);
+        this.testCube.rotateY(.01);
+        this.testCube.rotateZ(.01);
     }
 }

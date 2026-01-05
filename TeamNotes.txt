@@ -1,0 +1,6 @@
+git fetch origin
+
+git pull
+
+git checkout -b "Branch_Name"
+git push -u origin "Branch_Name"
