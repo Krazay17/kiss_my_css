@@ -5,4 +5,4 @@ can you read me?
 evan was here
 
 
- im updating the read me to see what is hapening with the upload
+ im updating the read me to see what is happening with the upload
